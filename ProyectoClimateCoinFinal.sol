@@ -117,7 +117,7 @@ contract IntercambioCC {
     event NFTExchanged(address indexed from, address indexed to, uint256 indexed tokenId, uint256 ccAmount, uint256 feeAmount);
     event CCBurn(address indexed burner, uint256 ccAmount, uint256 tokenId);
 
-    mapping (uint256 => uint256) _balances;
+    mapping (uint256 => uint256) private _balances;
 
     constructor(address _climateCoin, address _myNFTContract)  {
         climateCoin = ClimateCoin(_climateCoin);
