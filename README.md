@@ -1,4 +1,3 @@
-# ProyectoClimateCoin
 
 # Descripción
 El objetivo principal de este proyecto es familiarizarse con el desarrollo de contratos inteligentes utilizando Solidity y Remix. 
