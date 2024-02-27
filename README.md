@@ -1,9 +1,10 @@
 # ProyectoClimateCoin
-Practica del Modulo de Desarrollo de Smartcontract en Remix con Solidity
-https://github.com/SamuelZambrana/ProyectoClimateCoin/blob/main/ProyectoClimateCoinFinal.sol
 
-# Proyecto Final: Desarrollo de DApp
-ClimateCoin en Solidity
+# Descripción
+El objetivo principal de este proyecto es familiarizarse con el desarrollo de contratos inteligentes utilizando Solidity y Remix. 
+Se exploran conceptos como la creación de contratos, pruebas, scripts y el despliegue en un entorno local
+
+# Contenido
 
 # Introducción a los Créditos de Carbono
 Los créditos de carbono son certificados que representan la reducción de emisiones de
